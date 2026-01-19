@@ -36,7 +36,6 @@ FastAPI, a modern web framework for building APIs with Python, was employed to c
 - [Installation](#installation)
 - [Usage](#usage)
 - [Endpoints](#endpoints)
-- [HTML Templates](#html-templates)
 - [Dependencies](#dependencies)
 
 
