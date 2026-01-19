@@ -1,4 +1,4 @@
-# Credit Score Predictor with FastAPI
+# Credit Score Predictor
 
 This FastAPI-based web application is designed to predict credit scores using machine learning. The project follows a systematic data preprocessing and feature selection approach to ensure the model's accuracy and efficiency.
 
